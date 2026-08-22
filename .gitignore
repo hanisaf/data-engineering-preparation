@@ -2,6 +2,7 @@ spark-warehouse/
 tmp/
 out/
 .DS_Store
+.Trash-*/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

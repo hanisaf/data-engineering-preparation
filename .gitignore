@@ -1,3 +1,6 @@
+external-data/
+landing/
+metastore_db/
 anaconda_projects/
 spark-warehouse/
 tmp/
